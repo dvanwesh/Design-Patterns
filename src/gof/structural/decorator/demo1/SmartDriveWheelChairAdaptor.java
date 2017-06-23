@@ -1,4 +1,4 @@
-package god.structural.decorator.demo1;
+package gof.structural.decorator.demo1;
 
 public class SmartDriveWheelChairAdaptor extends WheelChairDecorator {
 

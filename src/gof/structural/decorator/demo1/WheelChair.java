@@ -1,4 +1,4 @@
-package god.structural.decorator.demo1;
+package gof.structural.decorator.demo1;
 
 public interface WheelChair {
 	public void setName(String n);

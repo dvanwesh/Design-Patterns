@@ -1,4 +1,4 @@
-package god.structural.decorator.demo1;
+package gof.structural.decorator.demo1;
 
 /**
  * Decorator pattern allows a user to add new functionality to an existing

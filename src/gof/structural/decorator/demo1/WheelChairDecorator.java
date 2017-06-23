@@ -1,4 +1,4 @@
-package god.structural.decorator.demo1;
+package gof.structural.decorator.demo1;
 
 public abstract class WheelChairDecorator implements WheelChair {
 	protected WheelChair decoratedWheelchair;
