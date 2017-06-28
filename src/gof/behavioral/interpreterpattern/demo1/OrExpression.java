@@ -1,4 +1,4 @@
-package gof.bahavioral.interpreterpattern.demo1;
+package gof.behavioral.interpreterpattern.demo1;
 
 public class OrExpression implements Expression {
 	private Expression exp1 = null;
